@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\niket\\Desktop\\SDE Projects\\reactproject1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDD3EBC-A9B5-42EC-9A41-FD7BE2DDCF0E}|reactproject1.esproj|c:\\users\\niket\\desktop\\sde projects\\reactproject1\\src\\components\\alert.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3EDD3EBC-A9B5-42EC-9A41-FD7BE2DDCF0E}|reactproject1.esproj|solutionrelative:src\\components\\alert.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDD3EBC-A9B5-42EC-9A41-FD7BE2DDCF0E}|reactproject1.esproj|c:\\users\\niket\\desktop\\sde projects\\reactproject1\\src\\app.tsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3EDD3EBC-A9B5-42EC-9A41-FD7BE2DDCF0E}|reactproject1.esproj|solutionrelative:src\\app.tsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDD3EBC-A9B5-42EC-9A41-FD7BE2DDCF0E}|reactproject1.esproj|c:\\users\\niket\\desktop\\sde projects\\reactproject1\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EDD3EBC-A9B5-42EC-9A41-FD7BE2DDCF0E}|reactproject1.esproj|solutionrelative:.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDD3EBC-A9B5-42EC-9A41-FD7BE2DDCF0E}|reactproject1.esproj|c:\\users\\niket\\desktop\\sde projects\\reactproject1\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EDD3EBC-A9B5-42EC-9A41-FD7BE2DDCF0E}|reactproject1.esproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDD3EBC-A9B5-42EC-9A41-FD7BE2DDCF0E}|reactproject1.esproj|c:\\users\\niket\\desktop\\sde projects\\reactproject1\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EDD3EBC-A9B5-42EC-9A41-FD7BE2DDCF0E}|reactproject1.esproj|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDD3EBC-A9B5-42EC-9A41-FD7BE2DDCF0E}|reactproject1.esproj|c:\\users\\niket\\desktop\\sde projects\\reactproject1\\src\\components\\listgroup.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3EDD3EBC-A9B5-42EC-9A41-FD7BE2DDCF0E}|reactproject1.esproj|solutionrelative:src\\components\\listgroup.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDD3EBC-A9B5-42EC-9A41-FD7BE2DDCF0E}|reactproject1.esproj|c:\\users\\niket\\desktop\\sde projects\\reactproject1\\src\\message.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3EDD3EBC-A9B5-42EC-9A41-FD7BE2DDCF0E}|reactproject1.esproj|solutionrelative:src\\message.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -17,7 +46,97 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Alert.tsx",
+              "DocumentMoniker": "C:\\Users\\niket\\Desktop\\SDE Projects\\reactproject1\\src\\components\\Alert.tsx",
+              "RelativeDocumentMoniker": "src\\components\\Alert.tsx",
+              "ToolTip": "C:\\Users\\niket\\Desktop\\SDE Projects\\reactproject1\\src\\components\\Alert.tsx",
+              "RelativeToolTip": "src\\components\\Alert.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T06:27:46.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Users\\niket\\Desktop\\SDE Projects\\reactproject1\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": ".vscode\\launch.json",
+              "ToolTip": "C:\\Users\\niket\\Desktop\\SDE Projects\\reactproject1\\.vscode\\launch.json",
+              "RelativeToolTip": ".vscode\\launch.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T06:56:31.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListGroup.tsx",
+              "DocumentMoniker": "C:\\Users\\niket\\Desktop\\SDE Projects\\reactproject1\\src\\components\\ListGroup.tsx",
+              "RelativeDocumentMoniker": "src\\components\\ListGroup.tsx",
+              "ToolTip": "C:\\Users\\niket\\Desktop\\SDE Projects\\reactproject1\\src\\components\\ListGroup.tsx",
+              "RelativeToolTip": "src\\components\\ListGroup.tsx",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-19T06:51:38.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\niket\\Desktop\\SDE Projects\\reactproject1\\src\\App.tsx",
+              "RelativeDocumentMoniker": "src\\App.tsx",
+              "ToolTip": "C:\\Users\\niket\\Desktop\\SDE Projects\\reactproject1\\src\\App.tsx",
+              "RelativeToolTip": "src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-19T06:33:37.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Message.tsx",
+              "DocumentMoniker": "C:\\Users\\niket\\Desktop\\SDE Projects\\reactproject1\\src\\Message.tsx",
+              "RelativeDocumentMoniker": "src\\Message.tsx",
+              "ToolTip": "C:\\Users\\niket\\Desktop\\SDE Projects\\reactproject1\\src\\Message.tsx",
+              "RelativeToolTip": "src\\Message.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-19T06:30:43.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\niket\\Desktop\\SDE Projects\\reactproject1\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\niket\\Desktop\\SDE Projects\\reactproject1\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T06:29:06.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\niket\\Desktop\\SDE Projects\\reactproject1\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\niket\\Desktop\\SDE Projects\\reactproject1\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-19T06:28:27.336Z"
             }
           ]
         }
